@@ -27,6 +27,7 @@ optional arguments:
 /ldap_hunter.py -u testuser1 -p Summer2019 -d tgore.com -t 192.168.204.132 --exchange
 [+] Exchange Servers Found:
 EXCHANGE.tgore.com
+
 ./ldap_hunter.py -u testuser1 -p Summer2019 -d tgore.com -t 192.168.204.132 --mssql
 [+] MSSQL Servers Found:
 MSSQL.tgore.com
